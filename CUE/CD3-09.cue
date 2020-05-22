@@ -1,5 +1,5 @@
 REM DIRINDEX 1\2,1\3,1\4
-REM DIRNAME cjc031,folder01,folder02,folder03
+REM DIRNAME folder01,folder02,folder03,folder04
 TITLE ""
 FILE "CD3-09.mp3" MP3
   TRACK 01 AUDIO
